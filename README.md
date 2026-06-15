@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Bogdan 👋</h1>
+  <h1>Hi there 👋</h1>
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=00bfff&style=flat-square&label=Profile+Views)
   
@@ -12,51 +12,28 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently deepening my skills in modern web development
-- 💡 I love building clean, efficient, and user-friendly applications
-- 🎯 Always looking for new challenges and opportunities to grow
-- 📫 Open to collaboration and interesting projects
+- Passionate about building clean, scalable and efficient backend systems  
+- Always learning and open to interesting projects & collaborations  
+- 📫 Open for work and new opportunities
 
-### 🛠 Tech Stack
-
-**Languages:**
-- TypeScript / JavaScript
-- Python
-
-**Frontend:**
-- React
-- Tailwind CSS
-- HTML5 & CSS3
-
-**Backend:**
-- Python (Django / FastAPI)
-- REST APIs & GraphQL
-
-**Databases:**
-- PostgreSQL
-- Redis
-
-**Tools & Others:**
-- Git & GitHub
-- Docker
-- Linux
-
----
-
-### 📊 My Top Technologies
+### 🛠 Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-FF4F00?logo=sqlalchemy&logoColor=white&style=for-the-badge" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
 </p>
-
----
 
 ### 📫 Let's Connect
 
-- **Telegram:** [@yourusername](https://t.me/Obejyanka)
+- **Telegram:** [@Obejyanka](https://t.me/Obejyanka)
 - **Email:** geldish238@gmail.com
 
 ---
