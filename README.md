@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hi there 👋</h1>
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=00bfff&style=flat-square&label=Profile+Views)
-  
   <p><strong>Passionate Full-Stack / Backend Developer</strong> from Ukraine 🇺🇦</p>
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1hZ2VnaWZ0&rid=giphy.gif" width="380" alt="coding">
